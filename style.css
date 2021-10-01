@@ -16,16 +16,16 @@ header {
 }
 
 ul {
-    color: #F9FAF8;
     list-style-type: none;
     display: flex;
-    font-size: 18px;
-    color: #E5E7EB;
+    
 }
 
 li {
     display: inline-block;
     margin-left: 32px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 footer {
