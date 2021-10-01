@@ -51,6 +51,18 @@ li {
     flex-wrap: wrap;
 }
 
+img {
+    flex: 0;
+    margin-right: 64px;
+}
+
+.top-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+    
+}
+
 footer {
     background-color: #1F2937;
     color: #F9FAF8;
