@@ -28,6 +28,29 @@ li {
     color: #E5E7EB;
 }
 
+.body-top {
+    
+    padding-top: 68px;
+    background-color: #1F2937;
+    
+    
+}
+
+.awesome {
+    font-size: 48px;
+    color: #F9FAF8;
+    margin-left: 64px;
+    display: flex;
+}
+
+.awesome-secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-left: 64px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
 footer {
     background-color: #1F2937;
     color: #F9FAF8;
