@@ -63,6 +63,16 @@ img {
     
 }
 
+button {
+    margin-left: 64px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+    margin-top: 10px;
+    border: ;
+}
+
 footer {
     background-color: #1F2937;
     color: #F9FAF8;
